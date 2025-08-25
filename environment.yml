@@ -1,9 +1,8 @@
 name: introToSolvingODEsNumerically
 channels:
+  - https://repo.mamba.pm/emscripten-forge
   - conda-forge
 dependencies:
-  - python=3.10.12
   - xeus-python
   - numpy
   - plotly
-  - voici
